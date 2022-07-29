@@ -1,0 +1,29 @@
+Изучить SQL запросы - CREATE, INSERT, SELECT, UPDATE, DROP
+так же создать файл docs.txt и написать что делает каждый из этих методов
+
+SQL запросы:
+
+
+CREATE - создаёт новую таблицу данных.
+
+INSERT - добавляет данные в таблицу.
+
+SELECT - получение данных из выбранной таблицы.
+         SELECT * FROM <table_name>  -> Этой командой можно вывести все данные из таблицы.
+
+UPDATE - Обновляет данные таблицы.
+
+DROP - удаляет строки(ку) из таблицы, всю таблицу целиком или целую базу данных.
+
+Теперь я всегда доверяю "Eassy)"
+
+
+Pls,go to Standard Python File and check this.
+
+class spasibo:
+    def __init__(self, name):
+        self.name = name
+    def spasibo(self):
+        return f'{self.name} , thank you very much!'
+name = spasibo("God_Of_Programmers")
+print(name.spasibo())
